@@ -12,9 +12,9 @@ from telebot import types
 from dateutil.relativedelta import relativedelta
 import time
 # Idef create_random_key()nsert your Telegram bot token here
-bot = telebot.TeleBot('7577640282:AAFrSH0KGZhAPd7bqP9c31geWBId1-Vfr1U')
+bot = telebot.TeleBot('7221793566:AAHOU1BCA-YIbX9C0PEf-Uxm789nPcT6Tj8')
 # Admin user IDs
-admin_id = {"5406953620" , "1630422629"}
+admin_id = {"5406953620"}
 # Files for data storage
 USER_FILE = "users.json"
 LOG_FILE = "log.txt"
